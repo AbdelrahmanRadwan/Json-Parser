@@ -1,0 +1,22 @@
+c:\users\t-abradw\documents\visual studio 2015\Projects\parsing the json\parsing the json\bin\Debug\parsing the json.exe.config
+c:\users\t-abradw\documents\visual studio 2015\Projects\parsing the json\parsing the json\bin\Debug\parsing the json.exe
+c:\users\t-abradw\documents\visual studio 2015\Projects\parsing the json\parsing the json\bin\Debug\parsing the json.pdb
+c:\users\t-abradw\documents\visual studio 2015\Projects\parsing the json\parsing the json\bin\Debug\Newtonsoft.Json.dll
+c:\users\t-abradw\documents\visual studio 2015\Projects\parsing the json\parsing the json\bin\Debug\Newtonsoft.Json.xml
+c:\users\t-abradw\documents\visual studio 2015\Projects\parsing the json\parsing the json\obj\Debug\parsing the json.csprojResolveAssemblyReference.cache
+c:\users\t-abradw\documents\visual studio 2015\Projects\parsing the json\parsing the json\obj\Debug\parsing the json.exe
+c:\users\t-abradw\documents\visual studio 2015\Projects\parsing the json\parsing the json\obj\Debug\parsing the json.pdb
+C:\Users\t-abradw\Desktop\parsing the json\parsing the json\bin\Debug\parsing the json.exe.config
+C:\Users\t-abradw\Desktop\parsing the json\parsing the json\bin\Debug\parsing the json.exe
+C:\Users\t-abradw\Desktop\parsing the json\parsing the json\bin\Debug\parsing the json.pdb
+C:\Users\t-abradw\Desktop\parsing the json\parsing the json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t-abradw\Desktop\parsing the json\parsing the json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t-abradw\Desktop\parsing the json\parsing the json\obj\Debug\parsing the json.exe
+C:\Users\t-abradw\Desktop\parsing the json\parsing the json\obj\Debug\parsing the json.pdb
+C:\Users\t-abradw\Desktop\parsing the json\parsing the json\obj\Debug\parsing the json.csprojResolveAssemblyReference.cache
+F:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\parsing the json\parsing the json\bin\Debug\parsing the json.exe.config
+F:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\parsing the json\parsing the json\obj\Debug\parsing the json.exe
+F:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\parsing the json\parsing the json\obj\Debug\parsing the json.pdb
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\parsing the json\parsing the json\bin\Debug\parsing the json.exe.config
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\parsing the json\parsing the json\obj\Debug\parsing the json.exe
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\ATLC\parsing the json\parsing the json\obj\Debug\parsing the json.pdb
